@@ -1,0 +1,23 @@
+{
+  "name": "aimbot",
+  "version": "1.0.0",
+  "description": "du carabian with mBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcanae/aimBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcanae/aimBot/issues"
+  },
+  "homepage": "https://github.com/arcanae/aimBot#readme",
+  "dependencies": {
+    "johnny-five": "^0.11.3",
+    "node-pixel": "^0.6.0"
+  }
+}
